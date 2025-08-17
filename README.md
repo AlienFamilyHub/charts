@@ -1,3 +1,3 @@
 # AlienFamilyHub Helm Repo
 
-呀！是 helm repo。
+哎！是 helm repo。
